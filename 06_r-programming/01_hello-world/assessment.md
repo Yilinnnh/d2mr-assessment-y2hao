@@ -19,9 +19,9 @@ Section: 1
 
 Mini-project title: mini priject_hello-world
 
-Submission date: 
+Submission date: 1/31/2025
 
-Project GitHub subdirectory URL: 
+Project GitHub subdirectory URL: https://github.com/Yilinnnh/d2mr-assessment-y2hao/blob/main/06_r-programming/01_hello-world/mini%20project_hello-world.R
 
 URL or instructions to access additional materials, if needed:
 
