@@ -1,5 +1,7 @@
 # d2mr-assessment
 
+**Test change for github troubleshooting!**
+
 This is a centralized directory for D2MR mini-project assessment materials. The purpose of this repository is to provide a single location for all mini-projects, which will allow you to easily access and complete them and your instructors to efficiently grade them.
 
 Working with this repository will help you practice using git and GitHub, which are explicit learning objectives for the course!
@@ -149,7 +151,7 @@ Projects may be added or revised throughout the quarter, so be sure to keep you 
     2. (GE) Level 2
     3. (2+) Un-clean some data & swap to clean
 2. Data wrangling
-    - (GE, DEMO) Walkthrough
+    - ~~(GE, DEMO) Walkthrough~~ *(will add if needed)
     1. (GE) Level 1
     2. (GE) Level 2
     3. (2+) Ravage some poor datasets & swap to wrangle
@@ -179,7 +181,7 @@ Projects may be added or revised throughout the quarter, so be sure to keep you 
     1. Create a `hello_world()` function
     2. Create a plotting function
     3. Create a wrangling function
-    4. Recreate a function from base R or a non-tidyverse package using tidyverse functions
+    4. Recreate an existing function
     5. (OtS) Create a package
 7. Git & GitHub (these can use real projects or dummy data)
     1. Set up a skeleton repo to create APA quarto manuscripts
