@@ -1,6 +1,8 @@
+# Define the hello_world() function that provides personalized greetings based on time
 hello_world <- function(name, current_time = Sys.time(), language = "English") {
   date_time <- as.POSIXct(current_time, format="%Y-%m-%d %H:%M:%OS")
-  
+
+  # Extract the date and hour information
   date <- as.Date(date_time)  
   hour <- as.numeric(format(date_time, "%H"))
   
