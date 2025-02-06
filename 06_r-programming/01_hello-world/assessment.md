@@ -97,7 +97,7 @@ Below each learning objective is a list of general expectations for meeting that
         -   [ ] Objective attempt
         -   [*] Unique objective attempt
         -   [ ] Objective met
-        -   Grader comments:
+        -   Grader comments: For this we expect you to have lines like `install.packages(stringr)`, `library(stringr)`, etc.
 
 6.  Use arithmetic, comparison, and logical operators
 
@@ -106,8 +106,8 @@ Below each learning objective is a list of general expectations for meeting that
 
         -   [ ] Objective attempt
         -   [*] Unique objective attempt
-        -   [ ] Objective met
-        -   Grader comments:
+        -   [X] Objective met
+        -   Grader comments: Arithmetic operators are not explicitly used though. Make sure you understand what operators are counted as arithmetic.
 
 7.  Parse and define functions and arguments
 
@@ -117,8 +117,8 @@ Below each learning objective is a list of general expectations for meeting that
 
         -   [ ] Objective attempt
         -   [*] Unique objective attempt
-        -   [ ] Objective met
-        -   Grader comments:
+        -   [X] Objective met
+        -   Grader comments: The function runs without error, but a. there's no running examples in your script, b. the function is not designed to print strings out - you may consider adding more prints to show what greetings are generated when applying the function. I marked it as met after considering other partially-met objectives.
 
 8.  Parse and write conditional statements and/or loops
 
@@ -128,7 +128,7 @@ Below each learning objective is a list of general expectations for meeting that
         -   [ ] Objective attempt
         -   [*] Unique objective attempt
         -   [ ] Objective met
-        -   Grader comments:
+        -   Grader comments: The script does not use conditional in **multiple contexts**. You may consider using in dplyr pipelines as the instructions suggest. It does not include any conditional/loop functions, either.
 
 ### Tidyverse
 
@@ -460,11 +460,11 @@ Thoughtful reflections may earn engagement points.
 
 ## Grader feedback
 
--   Grader:
--   Date:
--   Points toward unique objectives (up to 20):
+-   Grader: Mian
+-   Date:Feb 6/2025
+-   Points toward unique objectives (up to 20): 2
 -   Additional points (up to 20):
--   TA provisional engagement points (up to 10):
+-   TA provisional engagement points (up to 10): 2
 -   Final approved engagement points (up to 10):
 -   Total points (up to 50):
 
@@ -473,5 +473,7 @@ Engagement points are awarded for going above and beyond the expectations of the
 TAs may recommend engagement points provisionally, but the instructor will make the final decision on engagement points.
 
 Additional comments: 
+
+BY Mian: Yilin, thank you for submitting your R programming mini-project. While reviewing your work, I noted a few areas where the instructions may not have been fully understood or followed. I encourage you to revisit the project instructions and examples provided. Additionally, try participating more actively in discussions (in classes or slack chats) and seeking feedback. Looking forward to seeing your improvement in the next projects!
 
 
