@@ -465,8 +465,8 @@ Thoughtful reflections may earn engagement points.
 -   Points toward unique objectives (up to 20): 2
 -   Additional points (up to 20):
 -   TA provisional engagement points (up to 10): 2
--   Final approved engagement points (up to 10):
--   Total points (up to 50):
+-   Final approved engagement points (up to 10): 2
+-   Total points (up to 50): 4
 
 Engagement points are awarded for going above and beyond the expectations of the project and are not guaranteed on any given submission.. Demonstrating the assessed learning objectives earns you points in those categories, but engagement points are awarded for exceptional effort, creativity, or skill.
 
@@ -476,4 +476,5 @@ Additional comments:
 
 BY Mian: Yilin, thank you for submitting your R programming mini-project. While reviewing your work, I noted a few areas where the instructions may not have been fully understood or followed. I encourage you to revisit the project instructions and examples provided. Additionally, try participating more actively in discussions (in classes or slack chats) and seeking feedback. Looking forward to seeing your improvement in the next projects!
 
+ND: Sorry for the delay finalizing the grade! 
 
