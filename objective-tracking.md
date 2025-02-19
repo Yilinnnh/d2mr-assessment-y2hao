@@ -16,8 +16,8 @@ This document tracks your progress meeting 20 unique objectives across all mini-
 ## R programming
 
 5.  [ ] Find, install, require, and load R packages
-6.  [ ] Use arithmetic, comparison, and logical operators
-7.  [ ] Parse and define functions and arguments
+6.  [x] Use arithmetic, comparison, and logical operators
+7.  [x] Parse and define functions and arguments
 8.  [ ] Parse and write conditional statements and/or loops
 
 ## Tidyverse
